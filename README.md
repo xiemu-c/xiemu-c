@@ -7,13 +7,23 @@
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
 </p>
 
-- 👋 Hi, I’m @Curtain23
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Curtain23&theme=transparent&show_icons=true&hide_border=true&show=reviews&hide_title=true&hide=contribs" />
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=Curtain23&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<br/>
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Curtain23&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
+<br/>
+<!-- https://github.com/star-history/star-history -->
+<img src="https://api.star-history.com/svg?repos=Curtain23/tkintertools,Curtain23/Intelligent-Magic-Cube,Curtain23/Chess,Curtain23/Curtain23,Curtain23/tkintertools-demos,Curtain23/Fucking-Code&type=Date&theme=dark" />
+<br/>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Curtain23&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curtain23&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+</p>
 
 <p align="center">
   
