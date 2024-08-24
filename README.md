@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![My Skills]([https://skillicons.dev/icons?perline=14&i=bash,docker,git,github,go,html,idea,java,js,linux,md,mysql,netlify,nextjs,nginx,nodejs,ps,planetscale,postman,py,pytorch,qt,react,redis,ros,rust,sqlite,svg,tailwind,tauri,threejs,twitter,ts,vercel,vite,vscode,vue](https://skillicons.dev/icons?perline=14&i=bash,docker,git,github,go,html,idea,java,js,linux,md,mysql,netlify,nextjs,nginx,nodejs,ps,planetscale,postman,py,pytorch,qt,react,redis,ros,rust,sqlite,svg,tailwind,tauri,threejs,twitter,ts,vercel,vite,vscode,vue&perline=18))](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,docker,git,github,go,html,idea,java,js,linux,md,mysql,netlify,nextjs,nginx,nodejs,ps,planetscale,postman,py,pytorch,qt,react,redis,ros,rust,sqlite,svg,tailwind,tauri,threejs,twitter,ts,vercel,vite,vscode,vue&perline=18)](https://skillicons.dev)
 <!---
 Curtain23/Curtain23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
