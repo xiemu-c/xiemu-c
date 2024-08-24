@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=bash,docker,git,github,go,html,idea,java,js,linux,md,mysql,netlify,nextjs,nginx,nodejs,ps,planetscale,postman,py,pytorch,qt,react,redis,ros,rust,sqlite,svg,tailwind,twitter,ts,vercel,vite,vscode,vue&perline=18">
+<img align="center" src="https://skillicons.dev/icons?i=apple,bash,docker,git,github,go,html,idea,java,js,linux,md,mysql,netlify,nextjs,nginx,nodejs,ps,planetscale,postman,py,pytorch,qt,react,redis,ros,rust,sqlite,svg,tailwind,twitter,ts,vercel,vite,vscode,vue&perline=18">
 </p>
 
 <!---
