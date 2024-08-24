@@ -16,20 +16,13 @@
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Curtain23&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 <br/>
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Curtain23&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Curtain23&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
-</p>
-
-<p align="center">
-<img align="center" src="https://skillicons.dev/icons?i=apple,bash,docker,git,github,go,html,idea,java,js,linux,md,mysql,netlify,nextjs,nginx,nodejs,ps,planetscale,postman,py,pytorch,qt,react,redis,ros,rust,sqlite,svg,tailwind,twitter,ts,vercel,vite,vscode,vue&perline=18">
-</p>
-
-<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Curtain23/Curtain23/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Curtain23/Curtain23/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+</p>
+
+<p align="center">
+<img align="center" src="https://skillicons.dev/icons?i=apple,bash,docker,git,github,go,html,idea,java,js,linux,md,mysql,netlify,nextjs,nginx,nodejs,ps,planetscale,postman,py,pytorch,qt,react,redis,ros,rust,sqlite,svg,tailwind,twitter,ts,vercel,vite,vscode,vue&perline=18">
 </p>
