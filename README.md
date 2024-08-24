@@ -18,9 +18,7 @@
 </p>
 
 <p align="center">
-  
-[![My Skills](https://skillicons.dev/icons?i=bash,docker,git,github,go,html,idea,java,js,linux,md,mysql,netlify,nextjs,nginx,nodejs,ps,planetscale,postman,py,pytorch,qt,react,redis,ros,rust,sqlite,svg,tailwind,twitter,ts,vercel,vite,vscode,vue&perline=18)](https://skillicons.dev)
-
+<img align="center" src="[https://go-skill-icons.vercel.app/api/icons?i=py,c,cpp,cs,java,html,css,js,ts,matlab,md,sqlite&theme=auto](https://skillicons.dev/icons?i=bash,docker,git,github,go,html,idea,java,js,linux,md,mysql,netlify,nextjs,nginx,nodejs,ps,planetscale,postman,py,pytorch,qt,react,redis,ros,rust,sqlite,svg,tailwind,twitter,ts,vercel,vite,vscode,vue&perline=18)">
 </p>
 
 <!---
