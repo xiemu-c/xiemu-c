@@ -17,6 +17,12 @@
 
 <p align="center">
   
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p>
+
+<p align="center">
+  
 [![My Skills](https://skillicons.dev/icons?i=bash,docker,git,github,go,html,idea,java,js,linux,md,mysql,netlify,nextjs,nginx,nodejs,ps,planetscale,postman,py,pytorch,qt,react,redis,ros,rust,sqlite,svg,tailwind,twitter,ts,vercel,vite,vscode,vue&perline=18)](https://skillicons.dev)
 
 </p>
